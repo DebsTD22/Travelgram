@@ -45,3 +45,9 @@ a:hover{
 .bg-surface-color{
     background-color: var(--surface-color);
 }
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #d9d9d9;
+}
